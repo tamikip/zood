@@ -1,5 +1,5 @@
 
-# zood -g
+# zood -g我少时诵诗书少时诵诗书
 
 just a test for me?
 
